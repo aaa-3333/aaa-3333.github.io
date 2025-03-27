@@ -1,0 +1,415 @@
+/*bh,awards*/
+.bhbg{
+	background-image:url(https://i.pinimg.com/736x/3c/ba/9f/3cba9f8fc139348059b9b5dd646cf4b0.jpg);
+	background-attachment: fixed;
+	background-size:100% 100%;
+	font-size: 20px;
+}
+.bhcol{
+	width:50%;
+	float:left;
+	text-align:center;
+	height: 900px;
+}
+.bhcoltwo{
+	width:33%;
+	float:left;
+	text-align: center;
+	height: 600px;
+}
+.bhcolthree{
+	width:33%;
+	float:left;
+	text-align: center;
+}
+img{
+	border-radius:30px;
+}
+.awardsone{
+	background-image:url(https://i.ebayimg.com/images/g/HcwAAOSwg4tbH6AU/s-l1200.jpg);
+	background-attachment: fixed;
+	background-size:100% 100%;
+	color:rgb(32, 48, 110);
+}
+#new{
+	margin-top:360px;
+}
+/*writer,schools,nav*/
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: rgb(250, 209, 7);
+}
+li{
+	float :left;
+	border-right: 1px solid white;
+}
+li a{
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover:not(.three){
+	background-color: rgb(187, 187, 187);
+}
+.one{
+	display: inline;
+}
+
+.two{
+	background-color: rgb(105, 4, 6);
+	color: white;
+	padding: 15px;
+	border-radius: 10px;
+	height: 170px;
+	font-family: "Fira Mono", monospace;
+	font-size: 20px;
+}
+.three{
+	background-color: rgb(115, 6, 9);
+	color: white;
+}
+.four{
+	float:right;
+	width: 250px;
+	padding: 10px;
+}
+.four img{
+	width: 100%;
+}
+.five{
+	background-color: rgb(215, 242, 250);
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px;
+}
+.six{
+	text-align: justify;
+	background-color: rgb(252, 225, 249);
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px;
+	font-family: "Winky Sans", sans-serif;
+	font-size: 25px;
+}
+
+.seven{
+	height: 200px;
+}
+.eight{
+	text-align: justify;
+	background-color: rgb(225, 252, 232);
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px;
+	font-family: "Winky Sans", sans-serif;
+	font-size: 20px;
+}
+.nine{
+    background-color: rgb(234, 223, 245);
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px;
+}
+.ten{
+    float:right;
+	width: 300px;
+	padding: 10px;
+	border:1px solid black;
+}
+.ten img{
+	width: 100%;
+	border-radius: 5px;
+}
+.eleven{
+    text-align: justify;
+}
+
+.image{
+	float: left;
+}
+
+.colone{
+    width:50%;
+    float:left;
+    text-align:center;
+        }
+
+#one:hover{
+	transition: 2s;
+	opacity: 0.5;
+	width: 316px;
+    height: 336px;
+}
+#two{
+	background-color:Tomato;
+}
+#two:hover{
+	color: white;
+	background-color: rgb(92, 7, 7);
+}
+#three{
+	background-color:yellow ;
+}
+#three:hover{
+	color: white;
+	background-color:rgb(110, 117, 8);
+}
+#four{
+	background-color: lightblue;
+}
+#four:hover{
+	color: white;
+	background-color: rgb(6, 10, 92);
+}
+#five{
+	background-color: green;
+}
+#five:hover{
+	color: white;
+	background-color: rgb(7, 92, 27);
+}
+#six{
+	font-family: "Libre Baskerville", serif;
+	font-size: 2em;
+	color: rgb(12, 12, 135);
+}
+#seven{
+	float: left;
+	height: 200px;
+}
+#eight{
+	color:rgb(115, 6, 9);
+	font-family: "Winky Sans", sans-serif;
+	font-size: 6em;
+	text-shadow: 3px 3px 2px rgb(250, 209, 7);
+}
+
+#nine{
+	color:rgb(54, 165, 224);
+	font-family: "Winky Sans", sans-serif;
+	font-size: 6em;
+	text-shadow: 8px 7px 5px rgb(9, 102, 17);
+}
+#ten{
+	position: sticky;
+	top: 0;
+}
+#eleven{
+	color: rgb(121, 218, 199);
+	font-size: 40px;
+	font-family: "Playfair Display", serif;
+}
+#twelve{
+	font-size: 25px;
+	font-family: "Rubik", sans-serif;
+}
+
+
+table{
+	border: 3px solid black;
+	background-color: rgb(188, 220, 245);
+}
+
+
+/*architecture,art*/
+.body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #1a1a1a;
+            color: #f5f5f5;
+            text-align: center;
+        }
+        .header {
+            background-color: #000;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .container {
+            padding: 20px;
+        }
+        .gallery img {
+            width: 30%;
+            margin: 10px;
+            border-radius: 10px;
+        }
+        .section {
+            background-color: #333;
+            padding: 20px;
+            margin: 20px auto;
+            width: 80%;
+            border-radius: 10px;
+        }
+
+/*writer,actor*/
+
+.body1{
+	font-family: "Special Elite", system-ui;
+	background-image:url(https://i.pinimg.com/736x/c4/eb/01/c4eb0145639f689fa5ba593267df2d16.jpg);
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	margin: 0;
+	padding: 0;
+	color: #333;}
+
+.body2{
+	font-family: "Special Elite", system-ui;
+	background-image:url(https://i.pinimg.com/736x/30/6b/9e/306b9e4d5be3085c78e2d5c2bb9eca35.jpg);
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	margin: 0;
+	padding: 0;
+	color: #333;}
+
+#harrypotter{
+	font-size:67px;
+}
+
+#name h1 a{
+	text-decoration: none;
+	color: #333;
+}
+
+.movie-text{
+	display: inline-block;
+  	vertical-align: middle;
+}
+
+.movie-image{
+	display: inline-block;
+  	vertical-align: middle;
+}
+.h4{
+	font-size:20px;
+	color:#333;
+}
+.pthree{
+	font-size: 24px;
+	color:#9999FF;
+}
+
+.ptwo{
+	font-size: 31px;
+	margin-top: 40px;
+	color: #333;
+}
+
+#table3,th,td{
+	border-collapse:collapse;
+	border: 2px solid purple;
+	width: 100%;
+	padding: 2px;
+}
+
+.colone{
+	width:50%;
+	float:right;
+	text-align:center;
+	height:450px ;
+}
+
+
+.coltwo{
+	width:50%;
+	float:left;
+	height:450px;
+	text-align:center;
+}
+
+.colthree{
+	width:50%;
+	float:right;
+	height:450px;
+	text-align:center;
+}
+
+.colfour{
+	width:50%;
+	float:left;
+	height:450px;
+	text-align:center;
+}
+
+.colfive{
+	width:50%;
+	float:right;
+	height:450px;
+	text-align:center;
+}
+
+.colsix{
+	width:50%;
+	float:left;
+	height:450px;
+	text-align:center;
+}
+
+.colseven{
+	width:50%;
+	float:right;
+	height:450px;
+	text-align:center;
+}
+
+.coleight{
+	width:50%;
+	float:left;
+	height:450px;
+	text-align:center;
+}
+
+#link6{
+	padding: 10px;
+	width:510px;
+	height: 610px;
+	width:47%;
+
+}
+#intro6{
+	padding: 10px;
+	width:510px;
+	height: 410px;
+	width:47%;
+}
+
+#link7{
+	padding: 10px;
+	width:510px;
+	height: 610px;
+	width:47%;
+
+}
+#intro7{
+	padding: 10px;
+	width:510px;
+	height: 410px;
+	width:47%;
+}
+
+#link8{
+	padding: 10px;
+	width:510px;
+	height: 610px;
+	width:47%;
+
+}
+#intro8{
+	padding: 10px;
+	width:510px;
+	height: 410px;
+	width:47%;
+}
+.row{
+	margin-bottom:500px;
+}
+
+
+
+
+
